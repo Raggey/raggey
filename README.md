@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Linux Sys Admin
 - 💬 Ask me about: Rockets, Space, or anything tech related 😄 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-robinson-a808bb146/) 
+- ⚡ Fun fact: My code has been to 31,000 ft! 
 
 
 <!--
