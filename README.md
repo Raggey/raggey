@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Craig! 👋
+
+
+
+- 🔭 I’m currently working on [SGP4 Library in C#](https://github.com/Raggey/satellite-cs) 
+- 🌱 I’m currently learning Linux Sys Admin
+- 💬 Ask me about: Rockets, Space, or anything tech related 😄 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-robinson-a808bb146/) 
+
 
 <!--
 **Raggey/raggey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
