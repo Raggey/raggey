@@ -24,8 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Craig and Dr. Gail Iles -- VxLab RMIT  | Unity Mission Control Sim |
-| ------------- | ------------- |
-|![Image 1](https://github.com/Raggey/SMCP-Public/blob/master/Craig-Gail-VxLab-500px.jpg)  | ![Image 2](https://github.com/Raggey/Mission_Control_Project/blob/master/Scene_Image_20-500px.png)|
-
 
