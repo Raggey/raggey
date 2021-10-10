@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [SGP4 Library in C#](https://github.com/Raggey/satellite-cs) 
 - 🌱 I’m currently learning Pulumi and IaC
 - 💬 Ask me about: Rockets, Space, or anything tech related 😄 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-robinson-a808bb146/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-r-space/) 
 - ⚡ Fun fact: My code has been to 31,000 ft! 
 
 
