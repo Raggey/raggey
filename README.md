@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [SGP4 Library in C#](https://github.com/Raggey/satellite-cs) 
-- 🌱 I’m currently learning Pulumi and IaC
+- 🌱 I’m currently learning [how to fold burritos with 1 hand](https://youtu.be/7HsRuqsjtqI)
 - 💬 Ask me about: Rockets, Space, or anything tech related 😄 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-r-space/) 
 - ⚡ Fun fact: My code has been to 31,000 ft! 
