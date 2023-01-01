@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [SGP4 Library in C#](https://github.com/Raggey/satellite-cs) 
+- 🔭 I’m currently working on a [full stack angular project](https://github.com/Raggey/angular-tut) 
 - 🌱 I’m currently learning [how to fold burritos with 1 hand](https://youtu.be/7HsRuqsjtqI)
 - 💬 Ask me about: Rockets, Space, or anything tech related 😄 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/craig-r-space/) 
